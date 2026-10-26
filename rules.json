@@ -1,0 +1,19 @@
+{
+  "prohibited_terms": [
+    "100% guaranteed",
+    "risk-free return",
+    "miracle cure",
+    "cheapest in market",
+    "instant profit",
+    "guaranteed outcome"
+  ],
+  "mandatory_disclaimers": [
+    "Terms and conditions apply.",
+    "Results may vary depending on usage."
+  ],
+  "unverified_metrics": {
+    "over 1 million users": "Requires verified metric citation as of Q3 2026 database.",
+    "instant payout": "Must specify 'processed within 24 business hours' in fine print."
+  },
+  "brand_voice_tone": "Professional, transparent, user-centric, non-aggressive."
+}
